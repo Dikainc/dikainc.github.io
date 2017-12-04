@@ -1,0 +1,91 @@
+.header--blue-lighteen {
+    background-color: #000000!important;
+}
+
+.nice-select .list {
+    max-height: 30vh;
+    overflow-y: scroll;
+}
+
+.circle {
+    width: 6.5em;
+    height: 6.5em;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: blue;
+    display: block;
+    margin: 5px auto;
+    text-align: center;
+}
+
+.circle p {
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.nopadding {
+    padding: 0px!important;
+}
+
+.help-block {
+    color: red!important;
+}
+
+.clock div {
+    color: #3acc23;
+}
+
+#primary-menu a {
+    color: #3acc23;
+    border: 2px solid transparent!important;
+    border-radius: 0px;
+    text-decoration: none;
+}
+
+#primary-menu a:hover {
+    text-decoration: none;
+    background: transparent!important;
+    border-bottom: 2px solid gold!important;
+}
+
+.site-logo {
+    border: 0px solid #ccc
+}
+
+.logo-title {
+    font-family: 'Encode Sans Expanded', sans-serif;
+    font-size: 17px;
+    color: gold!important;
+    margin-bottom: 10px;
+}
+
+.logo-sub-title {
+    color: white;
+}
+
+#primary-menu ul.sub-menu a:hover {
+    border-bottom: 2px solid transparent!important;
+}
+
+#userMenu li {
+    padding-bottom: 10px!important;
+}
+
+#userMenu li a:hover {
+    text-decoration: none;
+}
+
+a.sign-up {
+    background: rgba(255, 215, 0, 0.3)!important;
+    padding: 5px!important;
+    border: 1px solid #fff!important;
+    color: #fff!important;
+}
+
+@media screen and (min-width: 758px) and (max-width: 934px) {
+    .content-wrapper {
+        margin-top: 60px!important;
+    }
+}

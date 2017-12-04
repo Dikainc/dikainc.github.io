@@ -1,0 +1,91 @@
+.logo span {
+    font-family: 'Encode Sans Expanded', sans-serif!important;
+    color: #3acc23;
+}
+
+.skin-blue .main-header .logo {
+    background-color: #121921!important;
+}
+
+.main-sidebar {
+    font-family: 'Nunito', sans-serif;
+    background-color: #000000!important;
+}
+
+.main-sidebar li.active>a {
+    color: #3acc23!important;
+}
+
+.treeview-menu li.active>a {
+    color: #3acc23!important;
+}
+
+.main-sidebar a {
+    color: #2dd9ff!important;
+}
+
+ul.treeview-menu a {
+    color: #ffffff!important;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: #273f5b!important;
+}
+
+body {
+    background: #555555;
+}
+
+.skin-blue .sidebar-menu>li:hover>a,
+.skin-blue .sidebar-menu>li.active>a,
+.skin-blue .sidebar-menu>li.menu-open>a {
+    background: #070e11!important;
+}
+
+.sidebar-menu li.header {
+    background: #000!important;
+    border-top: 1px solid #6e6e6e;
+}
+
+.send_receive_buts .btn-group {
+    margin-top: 5px!important;
+    margin-left: 0px!important;
+}
+
+.send_receive {
+    border: 0px solid #eee;
+    padding: 3px;
+    margin-right: 6px;
+    color: #fff;
+}
+
+#chart_legend ul.line-legend {
+    margin-top: 10px;
+    list-style: none!important;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.loader-div {
+    position: fixed;
+    width: 100%;
+    display: block;
+    top: 0px;
+    bottom: 0px;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 100000
+}
+
+.help-block a,
+.qr-button-ETH a .copy-button a {
+    color: grey!important;
+}
+
+.coming-soon {
+    color: #ffffff;
+}
